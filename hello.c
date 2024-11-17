@@ -5,6 +5,6 @@ int multiply(int a, int b) {
 }
 
 int main() {
-	printf("Hey, Ross!");
+	printf("Hey, little Ross!");
 	return 0;
 }
